@@ -17,8 +17,8 @@ The GYMProTrack App is a Flutter application designed to efficiently manage gym 
 
 ## Prerequisites
 Before running the App, make sure you have the following installed:
-Flutter SDK: Follow the official Flutter installation guide to set up Flutter on your system.
-Firebase Project setup for android.
+- Flutter SDK: Follow the official Flutter installation guide to set up Flutter on your system.
+- Firebase Project setup for Android.
 
 ## Installation and Usage
 
